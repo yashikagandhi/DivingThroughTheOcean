@@ -9,6 +9,7 @@ This project was created in glitch.com. Visit the following site to play!
 ```bash
 https://divingthroughtheocean.glitch.me
 ```
+In this project, we used HTML5, CSS3, and the p5.js library. 
 
 ## Description
 
