@@ -1,4 +1,4 @@
-# Diving Through The Ocean
+# Google CSSI Project-Diving Through The Ocean
 
 Welcome! Play a game while you help save the ocean of trash.
 
